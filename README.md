@@ -10,9 +10,9 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-I'm a passionate **UI/UX Designer** with hands-on experience designing user-centered digital products — and I'm currently expanding my skills into **Frontend Development** to bring my designs to life with code.
+I'm a passionate **UI/UX Designer** with hands-on experience designing user-centered digital products and I'm currently expanding my skills into **Frontend Development** to bring my designs to life with code.
 
 My design philosophy: every screen should feel effortless. If the user has to think too hard, the design hasn't done its job yet.
 
@@ -24,13 +24,13 @@ My design philosophy: every screen should feel effortless. If the user has to th
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### ✈️ Travel Naija — Nigeria Tour & Vacation Booking App
+### ✈️ Travel Naija  Nigeria Tour & Vacation Booking App
 
-> *"Your comfort, safety, and experience — handled end to end."*
+> *"Your comfort, safety, and experience handled end to end."*
 
-**Travel Naija** is a full-featured travel booking app concept designed for Nigerians who want to explore the beauty of all **36 states** of Nigeria. The app handles everything from flight bookings, hotel accommodation, to guided tours — so users can focus on the experience, not the logistics.
+**Travel Naija** is a full featured travel booking app concept designed for Nigerians who want to explore the beauty of all **36 states** of Nigeria. The app handles everything from flight bookings, hotel accommodation, to guided tours, so users can focus on the experience, not the logistics.
 
 **Key features designed:**
 - 🗺️ Browse destinations across all 36 Nigerian states
@@ -57,7 +57,7 @@ My design philosophy: every screen should feel effortless. If the user has to th
 
 ---
 
-## 📈 My Journey
+##  My Journey
 
 ```
 UI/UX Designer ──────────────────────► Frontend Developer
@@ -71,7 +71,7 @@ UI/UX Designer ─────────────────────�
 
 ## 🌍 Let's Connect
 
-I'm actively looking for **internship opportunities** in UI/UX Design or Frontend Development. If you're hiring, collaborating, or just want to talk design — let's connect!
+I'm actively looking for **internship opportunities** in UI/UX Design or Frontend Development. If you're hiring, collaborating, or just want to talk design let's connect!
 
 <div align="center">
 
