@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nyege Vincent Chibuzor 👋
+# Hi there, I'm Nyege Vincent Chibuzor 
 
 ### UI/UX Designer · Aspiring Frontend Developer · Based in Nigeria 🇳🇬
 
@@ -16,9 +16,9 @@ I'm a passionate **UI/UX Designer** with hands-on experience designing user-cent
 
 My design philosophy: every screen should feel effortless. If the user has to think too hard, the design hasn't done its job yet.
 
-- 🎨 **Design tool:** Figma
-- 🌱 **Currently learning:** HTML, CSS & JavaScript
-- 🔍 **Looking for:** UI/UX or Frontend internship opportunities
+-  **Design tool:** Figma
+-  **Currently learning:** HTML, CSS & JavaScript
+-  **Looking for:** UI/UX or Frontend internship opportunities
 - 🤝 **Open to:** Collaborations, feedback, and connecting with other creatives
 - 📍 **Location:** Nigeria
 
@@ -83,7 +83,7 @@ I'm actively looking for **internship opportunities** in UI/UX Design or Fronten
 
 <div align="center">
 
-*"Good design is not just what it looks like — it's how it works."*
+*"Good design is not just what it looks like; it's how it works."*
 
 ⭐ **Open to internship & collaboration opportunities** ⭐
 
